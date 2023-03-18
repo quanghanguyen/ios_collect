@@ -1,0 +1,6 @@
+framework module Pods_CreateUI_CreateUIUITests {
+  umbrella header "Pods-CreateUI-CreateUIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
